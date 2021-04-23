@@ -20,6 +20,12 @@
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>/post/first-post/</loc>
+    <lastmod>2021-04-23T16:13:45+02:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-04-23T16:13:45+02:00</lastmod>
+  </url><url>
     <loc>/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -39,9 +45,6 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/nelson-bighetti/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
